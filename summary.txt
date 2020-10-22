@@ -1,0 +1,38 @@
+Name:   Mikhail
+Surname:    Sklyarov
+Age:    19
+Other:  Male, With experience, Ready to move   
+City:   Russia, Taganrog
+Phone number:   +7 (999) 696-20-32
+Email:  mikhailsklyarov@gmail.com
+Specialty:  Web-developer
+About me:
+
+    I consider my passion for programming to be my main advantage.
+    I've been interested in this topic when I was 16, and I'm not going to stop under any circumstances.
+    The direction of study at the Institute was chosen in the same way - not by chance.
+    I believe that the combination of programming with any sphere of life, rather than
+    considering them separately, gives more potential and opportunities for growth,
+    both career and personal. I welcome a healthy lifestyle, do combat Sambo and go to the gym.
+
+Language: English(Pre-intermediate), Russian(Native)
+Education: Economic higher, 2019-2023
+Skills:
+    Good trainability, Sociability, Preciseness, Good team work, diligence, Cheerfulness, Hard-working, Motivator & Leader
+
+Technology stack:
+
+    HTML (8/10)
+    CSS (5/10)
+    JS (3/10)
+    PHP (5/10)
+    MySQL (5/10)
+    Apache (6/10)
+    Linux (4/10)
+    Windows (5/10)
+    Bitrix (5/10)
+    Wordpress (2/10)
+    Laravel (2/10)
+    Python (5/10)
+
+    I know about MVC, REST FULL, Angular, SCSS, SASS, HTTP and SPA
