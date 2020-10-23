@@ -4,7 +4,7 @@ Age:    19
 Other:  Male, With experience, Ready to move   
 City:   Russia, Taganrog
 Phone number:   +7 (999) 696-20-32
-Email:  mikhailsklyarov@gmail.com
+Email:  sklyarovv.mag@gmail.com
 Specialty:  Web-developer
 About me:
 
