@@ -30,9 +30,10 @@ Technology stack:
     Apache (6/10)
     Linux (4/10)
     Windows (5/10)
-    Bitrix (5/10)
+    Bitrix (3/10)
     Wordpress (2/10)
     Laravel (2/10)
     Python (5/10)
-
-    I know about MVC, REST FULL, Angular, SCSS, SASS, HTTP and SPA
+    Angular (3/10)
+    
+    I know about MVC, REST FULL, SCSS, SASS, HTTP and SPA, JQuery, Vue.js, Git
